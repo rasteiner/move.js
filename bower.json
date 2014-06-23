@@ -1,0 +1,17 @@
+{
+  "name": "move.js",
+  "main": "move.min.js",
+  "homepage": "https://github.com/rasteiner/move.js",
+  "authors": [
+    "Roman Steiner <roman@toastlab.ch>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
